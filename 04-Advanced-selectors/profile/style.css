@@ -15,7 +15,6 @@ h1, h2, h3 {
 
 a {
   color: rgb(31, 131, 224);
-  text-decoration: underline;
 }
 
 a:hover {
@@ -84,4 +83,12 @@ p {
 
 .list-inline {
   padding-left: 0;
+}
+
+.btn-red {
+    background-color: #FF7983;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
 }
