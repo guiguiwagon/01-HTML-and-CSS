@@ -1,0 +1,27 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #007791;
+  background-color: #FECA09;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+h1, h2, h3 {
+  color: #FF7983;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+}
+
+a {
+  color: rgb(31, 131, 224);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #1F69E2;
+}
+
+p {
+  font-size: 14px;
+}
